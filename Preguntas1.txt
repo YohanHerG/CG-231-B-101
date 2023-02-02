@@ -1,0 +1,14 @@
+Cuando los tres factores de escala son iguales, se denomina escalado uniforme.
+Ahora, lee y contesta las siguientes cuestiones:
+
+¿Que ocurre si los factores de escala son diferentes entre sı?
+El vector altera sus resultados y este tambien deja de ser un escalado uniforme
+
+¿Y si algun factor de escala es cero?
+Este valor altera el resultado que hay en el vector
+
+¿Que ocurre si uno o varios factores de escala son negativos?
+Los resultados empiezan a ser negativos dependiendo de su ubicacion
+
+¿Y si el factor de escala esta entre cero y uno?
+Este vecto ser vuelve decimal
